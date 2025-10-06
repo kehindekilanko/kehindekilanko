@@ -19,7 +19,7 @@ I enjoy using tools like Excel, Python, SQL, Power BI, and Azure AI Foundry to u
 When I’m not analyzing data, I enjoy reading and writing.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://www.datascienceportfol.io/kehindekilanko)
       
 ## 🔭 What I'm Currently Working On 
 
