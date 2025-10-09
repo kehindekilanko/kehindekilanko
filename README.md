@@ -30,7 +30,6 @@ When I’m not analyzing data, I enjoy reading and writing.
 ## 🌱 Current Focus
 
 - Exploring how Generative AI in Azure can enhance financial data analysis, automate reporting, and improve decision-making.
-- Azure AI Foundry
 
 ## 🛠️ Technical Skillset
 
