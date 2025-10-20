@@ -23,9 +23,9 @@ When I’m not analyzing data, I enjoy reading and writing.
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Project A:** Conducting a Credit Risk Analysis using Power BI and Python to identify factors influencing loan defaults and improve lending decisions.  
+- **Project B:** Building AI Agents with Azure AI Foundry to automate financial data analysis and enhance decision-making workflows.
+- **Content Creation:** Creating beginner-friendly tutorials and visual stories on data analysis, Power BI, and AI-enhanced analytics for my YouTube channel.
 
 ## 🌱 Current Focus
 
