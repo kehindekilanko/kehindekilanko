@@ -14,7 +14,7 @@
 </p>
 
 ## 🚀 About Me 
-I'm a Financial Data Analyst passionate about transforming financial data into actionable insights that drive smart, informed decisions. I aim to bridge the gap between finance, data analytics, and AI, helping organizations turn complex datasets into clear business value. 
+I'm a Data Analyst passionate about transforming financial data into actionable insights that drive smart, informed decisions. I aim to bridge the gap between finance, data analytics, and AI, helping organizations turn complex datasets into clear business value. 
 I enjoy using tools like Excel, Python, SQL, Power BI, and Azure AI Foundry to uncover insights, automate workflows, and enhance data storytelling.
 When I’m not analyzing data, I enjoy reading and writing.
 
