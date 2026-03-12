@@ -14,7 +14,7 @@
 </p>
 
 ## 🚀 About Me 
-I'm a Data Analyst passionate about transforming financial data into actionable insights that drive smart, informed decisions. I aim to bridge the gap between finance, data analytics, and AI, helping organizations turn complex datasets into clear business value. 
+I'm a Data Analyst passionate about transforming data into actionable insights that drive smart, informed decisions. I aim to bridge the gap between finance, data analytics, and AI, helping organizations turn complex datasets into clear business value. 
 I enjoy using tools like Excel, Python, SQL, Power BI, and Azure AI Foundry to uncover insights, automate workflows, and enhance data storytelling.
 When I’m not analyzing data, I enjoy reading and writing.
 
@@ -24,8 +24,7 @@ When I’m not analyzing data, I enjoy reading and writing.
 ## 🔭 What I'm Currently Working On 
 
 - **Project A:** Conducting a Credit Risk Analysis using Power BI and Python to identify factors influencing loan defaults and improve lending decisions.  
-- **Project B:** Building AI Agents with Azure AI Foundry to automate financial data analysis and enhance decision-making workflows.
-- **Content Creation:** Creating beginner-friendly tutorials and visual stories on data analysis, Power BI, and AI-enhanced analytics for my YouTube channel.
+- **Project B:** Multi-Agent Systems with Microsoft Foundry
 
 ## 🌱 Current Focus
 
